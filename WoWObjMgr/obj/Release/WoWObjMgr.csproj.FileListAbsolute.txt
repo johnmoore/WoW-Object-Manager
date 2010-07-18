@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\bin\Release\WoWObjMgr.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\bin\Release\WoWObjMgr.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\bin\Release\MemoryReader.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\obj\Release\WoWObjMgr.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\WoWObjMgr\obj\Release\WoWObjMgr.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\bin\Release\WoWObjMgr.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\bin\Release\WoWObjMgr.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\bin\Release\MemoryReader.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\obj\Release\WoWObjMgr.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WoWObjMgr\WoWObjMgr\obj\Release\WoWObjMgr.pdb
