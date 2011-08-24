@@ -8,7 +8,7 @@
 // World of Warcraft is copyright of Blizzard Entertainment.
 // 
 // 
-// http://programiscellaneous.com/programming-projects/world-of-warcraft/wow-object-manager/what-is-it/
+// http://www.programiscellaneous.com/programming-projects/small-miscellaneous/wow-object-manager/
 // 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
